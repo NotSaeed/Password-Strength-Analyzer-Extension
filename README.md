@@ -1,7 +1,9 @@
 # Password-Strength-Analyzer-Extension
 
 Password Strength Analyzer
-Secure. Simple. Seamless.
+Secure.
+Simple.
+Seamless.
 A browser extension that analyzes password strength and checks for leaks to help users create and maintain secure passwords.
 
 📜 Overview
@@ -16,23 +18,30 @@ Password Strength Analyzer ensures your passwords are:
 Real-time Analysis: Detects if a password is leaked or weak during login/signup.
 Color-Coded Indicators:
 🟥 Red (Leaked) – Password found in breach databases.
+
 🟥 Red (Weak) – Password is too weak (e.g., short or predictable).
+
 🟨 Yellow (Moderate): Password meets minimum strength requirements.
+
 🟩 Green (Strong): Password is strong and secure.
+
 - Smart Suggestions: If a password is less than "Strong," the extension provides recommendations for improvement.
 
 
 🛠️ How It Works
 - Hashing Locally
 Your password is hashed locally using SHA-1 encryption.
+
 Only the first 5 characters of the hash are sent to the Have I Been Pwned API.
 
 - Leak Detection
 The API returns a list of hashes that match the first 5 characters.
+
 A local comparison determines if your password has been leaked.
 
 - Real-Time Feedback
 Instant alerts for leaked passwords.
+
 Immediate analysis of strength with user-friendly color-coded results.
 
 
@@ -48,9 +57,11 @@ Click on Load Unpacked and select the extension folder.
 
 
 🖥️ Technical Stack
-Languages: JavaScript, HTML, CSS
-API: Have I Been Pwned API
-Security: Local SHA-1 hashing for privacy
+Languages: JavaScript, HTML, CSS.
+
+API: Have I Been Pwned API.
+
+Security: Local SHA-1 hashing for privacy.
 
 
 📸 Screenshots
@@ -78,14 +89,19 @@ Security: Local SHA-1 hashing for privacy
 
 🌟 Why Use Password Strength Analyzer?
 - Privacy First: Passwords are never sent in full to any server.
+  
 - Real-Time Alerts: Detect leaked or weak passwords immediately.
+  
 - Easy Integration: Works silently in the background.
+  
 - Improved Security: Encourages strong and secure password habits.
 
 
 💡 Future Enhancements
 - Support for additional password strength algorithms.
+  
 - Customizable strength rules for advanced users.
+  
 - Integration with password managers.
 
 📧 Contact Us
