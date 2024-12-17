@@ -1,47 +1,39 @@
 # Password-Strength-Analyzer-Extension
 
-**🚀 Installation**
-
-1- Download the Extension
-Clone this repository or download the latest release.
-git clone **https://github.com/NotSaeed/Password-Strength-Analyzer-Extension.git**
-
-2- Load into Browser
-
-- Open your browser's extensions page (e.g., chrome://extensions/).
-
-- Go to Manage Extension:
-
-  ![image](https://github.com/user-attachments/assets/16143710-97f0-447b-b38f-c6a5e74b276d)
-
-- Enable Developer Mode:
-
-  ![image](https://github.com/user-attachments/assets/ae973fa1-797a-49b4-baf6-4b48cc61f025)
-
-
-- Extract ZIP File
-
-
-- Load unpacked
-
-  ![image](https://github.com/user-attachments/assets/09edb5e0-1df0-43e4-be7b-478abaa2fc55)
-
-
-- Select the extension folder.
-  
--"Enter the file and then choose the file inside"
-
-
-
----------------------------------------------------------------------------------------------
-# Password Strength Analyzer  
-
 **Secure. Simple. Seamless.**  
 A browser extension that analyzes password strength and checks for leaks to help users create and maintain secure passwords.
 
 ---
 
-## 📜 **Overview**  
+## 🚀 **Installation**
+
+1. **Download the Extension**  
+   Clone this repository or download the latest release.  
+   ```bash
+   git clone https://github.com/NotSaeed/Password-Strength-Analyzer-Extension.git
+   ```
+
+2. **Load into Browser**  
+
+   - Open your browser's extensions page (e.g., `chrome://extensions/`).
+   - Go to **Manage Extension**:  
+     ![Manage Extension](https://github.com/user-attachments/assets/16143710-97f0-447b-b38f-c6a5e74b276d)  
+
+   - Enable **Developer Mode**:  
+     ![Enable Developer Mode](https://github.com/user-attachments/assets/ae973fa1-797a-49b4-baf6-4b48cc61f025)  
+
+   - Extract the ZIP file.
+
+   - Click **Load Unpacked**:  
+     ![Load Unpacked](https://github.com/user-attachments/assets/09edb5e0-1df0-43e4-be7b-478abaa2fc55)  
+
+   - Select the extension folder.  
+
+   - *"Enter the file and then choose the file inside."*
+
+---
+
+## 📜 **Overview**
 
 **Password Strength Analyzer** ensures your passwords are:  
 
@@ -51,7 +43,7 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ---
 
-## 🔍 **Features**  
+## 🔍 **Features**
 
 - **Real-time Analysis:** Detects if a password is leaked or weak during login/signup.  
 - **Color-Coded Indicators:**  
@@ -63,7 +55,7 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ---
 
-## 🛠️ **How It Works**  
+## 🛠️ **How It Works**
 
 1. **Hashing Locally**  
    - Your password is hashed locally using **SHA-1 encryption**.  
@@ -80,39 +72,39 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ---
 
-## 🖥️ **Technical Stack**  
+## 🖥️ **Technical Stack**
 
 - **Languages:** JavaScript, HTML, CSS  
 - **API:** [Have I Been Pwned API](https://haveibeenpwned.com)  
-- **Security:** Local **SHA-1 hashing** ensures privacy (only the first 5 hash characters are sent).  
+- **Security:** Local **SHA-1 hashing** ensures privacy. **Only the first 5 hash characters** are sent over the network, not the actual password.  
 
 ---
 
-## 📸 **Screenshots**  
+## 📸 **Screenshots**
 
 - **Password Leak Alert (Red - Leaked):**  
-![image](https://github.com/user-attachments/assets/ac4af68b-7c0d-4f27-a929-87f866babe83)  
+  ![Leaked Password](https://github.com/user-attachments/assets/ac4af68b-7c0d-4f27-a929-87f866babe83)  
 
 - **Password Weak Alert (Red - Weak):**  
-![image](https://github.com/user-attachments/assets/bd5bb0a0-d032-4424-b651-2c0bf80eff43)  
+  ![Weak Password](https://github.com/user-attachments/assets/bd5bb0a0-d032-4424-b651-2c0bf80eff43)  
 
 - **Password Moderate Alert (Yellow - Moderate):**  
-![image](https://github.com/user-attachments/assets/2e620324-b588-4bf1-b45e-95b1a0664954)  
+  ![Moderate Password](https://github.com/user-attachments/assets/2e620324-b588-4bf1-b45e-95b1a0664954)  
 
 - **Password Strong Alert (Green - Strong):**  
-![image](https://github.com/user-attachments/assets/153eb16c-393a-48d8-bd82-3c2aa4250786)  
+  ![Strong Password](https://github.com/user-attachments/assets/153eb16c-393a-48d8-bd82-3c2aa4250786)  
 
 - **Password Suggestion:**  
-![image](https://github.com/user-attachments/assets/5b6c1016-4a98-4309-9425-c81278857e8f)  
+  ![Password Suggestion](https://github.com/user-attachments/assets/5b6c1016-4a98-4309-9425-c81278857e8f)  
 
 - **Password Strength Feedback:**  
-    🟥 Weak (Red)  
-    🟨 Moderate (Yellow)  
-    🟩 Strong (Green)  
+    - 🟥 Weak (Red)  
+    - 🟨 Moderate (Yellow)  
+    - 🟩 Strong (Green)  
 
 ---
 
-## 🌟 **Why Use Password Strength Analyzer?**  
+## 🌟 **Why Use Password Strength Analyzer?**
 
 - **Privacy First:** Passwords are **never sent** in full to any server. Only the first 5 characters of the hashed password are transmitted.  
 - **Real-Time Alerts:** Detect leaked or weak passwords immediately.  
@@ -121,7 +113,7 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ---
 
-## 💡 **Future Enhancements**  
+## 💡 **Future Enhancements**
 
 - Support for additional password strength algorithms.  
 - Customizable strength rules for advanced users.  
@@ -129,7 +121,7 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ---
 
-## 📧 **Contact Us**  
+## 📧 **Contact Us**
 
 For feedback or contributions, feel free to open an issue or contact:  
 
@@ -141,5 +133,3 @@ For feedback or contributions, feel free to open an issue or contact:
 Secure your accounts today with **Password Strength Analyzer!** 🚀  
 
 **Protect Your Passwords Now!**
-
----
