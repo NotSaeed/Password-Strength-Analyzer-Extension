@@ -4,7 +4,7 @@
 
 1- Download the Extension
 Clone this repository or download the latest release.
-git clone **https://github.com/NotSaeed/PasswordStrengthAnalyzer.git**
+git clone **https://github.com/NotSaeed/Password-Strength-Analyzer-Extension.git**
 
 2- Load into Browser
 
