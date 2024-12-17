@@ -7,7 +7,8 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 ## 🚀 **Installation**
 
-1. **Download the Extension**  
+1. **Download the Extension**
+   
       Download as ZIP File
       
       Visit the repository page:
@@ -19,7 +20,7 @@ A browser extension that analyzes password strength and checks for leaks to help
       
       Extract the ZIP file to your computer.
 
-2. **Load into Browser**  
+3. **Load into Browser**  
 
    - Open your browser's extensions page (e.g., `chrome://extensions/`).
    - Go to **Manage Extension**:  
