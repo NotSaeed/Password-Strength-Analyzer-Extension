@@ -74,6 +74,7 @@ Security: Local SHA-1 hashing for privacy.
 ![image](https://github.com/user-attachments/assets/bd5bb0a0-d032-4424-b651-2c0bf80eff43).
 
 - Password Moderate Alert (Yellow - Moderate):
+  
 ![image](https://github.com/user-attachments/assets/2e620324-b588-4bf1-b45e-95b1a0664954).
 
 - Password Strong Alert (Green - Strong):
