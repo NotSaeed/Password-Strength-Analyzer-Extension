@@ -18,12 +18,18 @@ git clone **https://github.com/NotSaeed/Password-Strength-Analyzer-Extension.git
 
   ![image](https://github.com/user-attachments/assets/ae973fa1-797a-49b4-baf6-4b48cc61f025)
 
+
+- Extract ZIP File
+
+
 - Load unpacked
 
   ![image](https://github.com/user-attachments/assets/09edb5e0-1df0-43e4-be7b-478abaa2fc55)
 
 
 - Select the extension folder.
+  
+-"Enter the file and then choose the file inside"
 
 
 
