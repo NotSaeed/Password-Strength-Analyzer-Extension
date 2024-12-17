@@ -9,7 +9,6 @@ A browser extension that analyzes password strength and checks for leaks to help
 
 1. **Download the Extension**  
       Download as ZIP File
-      If you don't use Git, you can download the extension as a ZIP file directly from the GitHub page:
       
       Visit the repository page:
       https://github.com/NotSaeed/Password-Strength-Analyzer-Extension
