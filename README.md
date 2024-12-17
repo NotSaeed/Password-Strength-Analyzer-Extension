@@ -8,10 +8,17 @@ A browser extension that analyzes password strength and checks for leaks to help
 ## 🚀 **Installation**
 
 1. **Download the Extension**  
-   Clone this repository or download the latest release.  
-   ```bash
-   git clone https://github.com/NotSaeed/Password-Strength-Analyzer-Extension.git
-   ```
+Download as ZIP File
+If you don't use Git, you can download the extension as a ZIP file directly from the GitHub page:
+
+Visit the repository page:
+https://github.com/NotSaeed/Password-Strength-Analyzer-Extension
+
+Click the "Code" button:
+
+Select "Download ZIP":
+
+Extract the ZIP file to your computer.
 
 2. **Load into Browser**  
 
