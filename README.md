@@ -133,7 +133,8 @@ A browser extension that analyzes password strength and checks for leaks to help
 For feedback or contributions, feel free to open an issue or contact:  
 
 - **Team Members:** Mohammed Saeed & Abdullah Ba Nafea  
-- **Email:** [mohammed0911saeed@gmail.com](mailto:mohammed0911saeed@gmail.com)  
+- **Email:** [mohammed0911saeed@gmail.com] (mailto:mohammed0911saeed@gmail.com)
+             [abu.hd3@gmail.com] (mailto:abu.hd3@gmail.com)
 
 ---
 
