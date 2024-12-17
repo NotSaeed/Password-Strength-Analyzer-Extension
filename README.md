@@ -1,5 +1,32 @@
 # Password-Strength-Analyzer-Extension
 
+🚀 Installation
+1- Download the Extension
+Clone this repository or download the latest release.
+git clone **https://github.com/NotSaeed/PasswordStrengthAnalyzer.git**
+
+2- Load into Browser
+
+- Open your browser's extensions page (e.g., chrome://extensions/).
+
+- Go to Manage Extension:
+
+  ![image](https://github.com/user-attachments/assets/16143710-97f0-447b-b38f-c6a5e74b276d)
+
+- Enable Developer Mode:
+
+  ![image](https://github.com/user-attachments/assets/ae973fa1-797a-49b4-baf6-4b48cc61f025)
+
+- Load unpacked
+
+  ![image](https://github.com/user-attachments/assets/09edb5e0-1df0-43e4-be7b-478abaa2fc55)
+
+
+- Select the extension folder.
+
+
+
+---------------------------------------------------------------------------------------------
 Password Strength Analyzer
 Secure.
 Simple.
@@ -45,16 +72,6 @@ Instant alerts for leaked passwords.
 
 Immediate analysis of strength with user-friendly color-coded results.
 
-
-🚀 Installation
-1- Download the Extension
-Clone this repository or download the latest release.
-git clone https://github.com/NotSaeed/PasswordStrengthAnalyzer.git
-
-2- Load into Browser
-Open your browser's extensions page (e.g., chrome://extensions/).
-Enable Developer Mode.
-Click on Load Unpacked and select the extension folder.
 
 
 🖥️ Technical Stack
