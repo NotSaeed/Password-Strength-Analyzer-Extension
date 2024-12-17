@@ -1,6 +1,7 @@
 # Password-Strength-Analyzer-Extension
 
-🚀 Installation
+**🚀 Installation**
+
 1- Download the Extension
 Clone this repository or download the latest release.
 git clone **https://github.com/NotSaeed/PasswordStrengthAnalyzer.git**
