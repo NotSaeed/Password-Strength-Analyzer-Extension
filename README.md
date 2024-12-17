@@ -65,27 +65,34 @@ Security: Local SHA-1 hashing for privacy.
 
 
 📸 Screenshots
-- Password Leak Alert (Red - Leaked)
-![image](https://github.com/user-attachments/assets/ac4af68b-7c0d-4f27-a929-87f866babe83)
+- Password Leak Alert (Red - Leaked):
+  
+![image](https://github.com/user-attachments/assets/ac4af68b-7c0d-4f27-a929-87f866babe83).
 
-- Password Weak Alert (Red - Weak)
-![image](https://github.com/user-attachments/assets/bd5bb0a0-d032-4424-b651-2c0bf80eff43)
+- Password Weak Alert (Red - Weak):
+  
+![image](https://github.com/user-attachments/assets/bd5bb0a0-d032-4424-b651-2c0bf80eff43).
 
-- Password Moderate Alert (Yellow - Moderate)
-![image](https://github.com/user-attachments/assets/2e620324-b588-4bf1-b45e-95b1a0664954)
+- Password Moderate Alert (Yellow - Moderate):
+![image](https://github.com/user-attachments/assets/2e620324-b588-4bf1-b45e-95b1a0664954).
 
-- Password Strong Alert (Green - Strong)
-![image](https://github.com/user-attachments/assets/153eb16c-393a-48d8-bd82-3c2aa4250786)
+- Password Strong Alert (Green - Strong):
+  
+![image](https://github.com/user-attachments/assets/153eb16c-393a-48d8-bd82-3c2aa4250786).
 
 - Password Suggestion:
-![image](https://github.com/user-attachments/assets/5b6c1016-4a98-4309-9425-c81278857e8f)
+  
+![image](https://github.com/user-attachments/assets/5b6c1016-4a98-4309-9425-c81278857e8f).
 
 
 - Password Strength Feedback
 
-🟥 Weak (Red)
-🟨 Moderate (Yellow)
-🟩 Strong (Green)
+🟥 Weak (Red).
+
+🟨 Moderate (Yellow).
+
+🟩 Strong (Green).
+
 
 🌟 Why Use Password Strength Analyzer?
 - Privacy First: Passwords are never sent in full to any server.
@@ -106,8 +113,11 @@ Security: Local SHA-1 hashing for privacy.
 
 📧 Contact Us
 For feedback or contributions, feel free to open an issue or contact:
+
 - Team Name: Mohammed Saeed & Abdullah Ba Nafea
+  
 - Email: mohammed0911saeed@gmail.com
 
 Secure your accounts today with Password Strength Analyzer! 🚀
+
 Protect Your Passwords Now!
