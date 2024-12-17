@@ -17,6 +17,7 @@ Password Strength Analyzer ensures your passwords are:
 🔍 Features
 Real-time Analysis: Detects if a password is leaked or weak during login/signup.
 Color-Coded Indicators:
+
 🟥 Red (Leaked) – Password found in breach databases.
 
 🟥 Red (Weak) – Password is too weak (e.g., short or predictable).
